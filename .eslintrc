@@ -1,0 +1,8 @@
+{
+    "extends": "@react-native-community",
+    "rules": {
+        "qutoes":  [2, "double", {"avoidEscape": true}]
+    }
+        
+    
+}
